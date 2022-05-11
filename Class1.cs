@@ -22,7 +22,7 @@ namespace Project_1_Point_Creation
             PointCollection pc = workPart.Points;
             Point p1 = pc.CreatePoint(point1);
             Point p2 = pc.CreatePoint(point2);
-
+            //Comments
 
             p1.SetVisibility(SmartObject.VisibilityOption.Visible);
             p2.SetVisibility(SmartObject.VisibilityOption.Visible);
